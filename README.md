@@ -1,14 +1,17 @@
 # flutter_native_plugin
 
-A new Flutter plugin.
+# NativeFlutterApp
+[Native部分](https://github.com/wang709693972wei/FlutterNativeApp)
 
-## Getting Started
+[Flutter部分](https://github.com/wang709693972wei/FlutterModule)
 
-This project is a starting point for a Flutter
-[plug-in package](https://flutter.io/developing-packages/),
-a specialized package that includes platform-specific implementation code for
-Android and/or iOS.
+[Flutter插件部分](https://github.com/wang709693972wei/FlutterPlugin)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Flutter混合开发App，开发者可以单独运行FlutterModule  或者原生的FlutterNativeApp，亦可混合运行进行开发
+# flutter_module
+
+A new Flutter application.
+
+[Flutter中文网](https://flutterchina.club/)
+
+[Flutter官网](https://github.com/flutter/flutter)
