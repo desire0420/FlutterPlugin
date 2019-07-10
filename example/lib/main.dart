@@ -6,6 +6,7 @@ import 'package:flutter_native_plugin/flutter_native_plugin.dart';
 
 void main() => runApp(MyApp());
 
+
 class MyApp extends StatefulWidget {
   @override
   _MyAppState createState() => _MyAppState();
